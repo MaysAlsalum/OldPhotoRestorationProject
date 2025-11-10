@@ -112,7 +112,7 @@ def zip_bytes(files_dict):
     return buf
 
 # ---------- UI ----------
-st.set_page_config(page_title="Old Photo Restoration", page_icon="🧿", layout="wide")
+st.set_page_config(page_title="Old Photo Restoration", page_icon="", layout="wide")
 
 with st.sidebar:
     st.header("⚙️ Settings")
