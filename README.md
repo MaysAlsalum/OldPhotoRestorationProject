@@ -97,3 +97,9 @@ http://localhost:8501
 ## Supervisor
 
 Dr. Dimah Almani
+
+---
+
+## License
+
+This project was developed for educational purposes as a graduation project at Shaqra University.
