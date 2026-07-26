@@ -1,2 +1,4 @@
-/.venv_restore
-/output_results
+.venv/
+__pycache__/
+*.pyc
+output_results/
